@@ -9,3 +9,6 @@ My primary research focused on equipment fault diagnosis and condition monitorin
 ### 📎 Homepages
 - Personal Pages: https://ruijun19.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com/citations?user=goCftmoAAAAJ
+
+<a href="https://info.flagcounter.com/B5qp"><img src="https://s01.flagcounter.com/mini/B5qp/bg_FFFFFF/txt_DEDEDE/border_FFFFFF/flags_0/" alt="Flag Counter" border="0"></a>
+
