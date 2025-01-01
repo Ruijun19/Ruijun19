@@ -7,5 +7,4 @@ My primary research focused on equipment fault diagnosis and condition monitorin
 🎤  **I am currently seeking a Ph.D. position (Fall/Spring 2025) !**
 
 ### 📎 Homepages
-- Personal Pages: https://ruijun19.github.io (updated recently🔥)
 - Google Scholar: https://scholar.google.com/citations?user=goCftmoAAAAJ
